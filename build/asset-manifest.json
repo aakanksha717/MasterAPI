@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MasterAPI/static/css/main.e6c13ad2.css",
+    "main.js": "/MasterAPI/static/js/main.e0482367.js",
+    "static/js/787.de81ef12.chunk.js": "/MasterAPI/static/js/787.de81ef12.chunk.js",
+    "static/media/error.png": "/MasterAPI/static/media/error.0ddef4475c33b5ba9a1c.png",
+    "index.html": "/MasterAPI/index.html",
+    "main.e6c13ad2.css.map": "/MasterAPI/static/css/main.e6c13ad2.css.map",
+    "main.e0482367.js.map": "/MasterAPI/static/js/main.e0482367.js.map",
+    "787.de81ef12.chunk.js.map": "/MasterAPI/static/js/787.de81ef12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e0482367.js"
+  ]
+}
